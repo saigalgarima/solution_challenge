@@ -52,10 +52,6 @@ To get started with WaterWise, simply visit our website and start reporting wate
 
 We welcome contributions to enhance WaterWise and expand its impact on water management practices. Feel free to reach out to us with your ideas or submit pull requests.
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Contact
 
 For any inquiries or feedback, please contact us at garimasaigal02@gmail.com.
